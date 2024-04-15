@@ -1,1 +1,7 @@
 my txt file in develop branch
+
+myself learn challenges are
+
+django fullstack
+mern fullstack
+vlsi training
