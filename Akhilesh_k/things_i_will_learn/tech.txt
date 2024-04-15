@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 my txt file in develop branch
 
 myself learn challenges are
@@ -5,3 +6,8 @@ myself learn challenges are
 django fullstack
 mern fullstack
 vlsi training
+=======
+it's my change in tech.txt
+
+aws
+>>>>>>> tech
